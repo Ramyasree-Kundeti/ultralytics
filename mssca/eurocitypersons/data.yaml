@@ -1,0 +1,22 @@
+train: /media/homes/kundeti/yolomssca/datasets/eurocitypersons/ECP/day/train
+val: /media/homes/kundeti/yolomssca/datasets/eurocitypersons/ECP/day/val
+
+# Classes
+names:
+  0: person-group-far-away,
+  1: rider+vehicle-group-far-away
+  2: rider
+  3: bicycle
+  4: bicycle-group
+  5: pedestrian
+  6: scooter-group
+  7: motorbike-group
+  8: tricycle-group
+  9: motorbike
+  10: scooter
+  11: buggy-group
+  12: tricycle
+  13: buggy
+  14: co-rider
+  15: wheelchair
+  16: wheelchair-group
